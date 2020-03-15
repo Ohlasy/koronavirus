@@ -48,4 +48,4 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do [sdíleného chatu](
 
 ## O webu
 
-Web zprovoznily [Ohlasy](https://ohlasy.info), neustále jej aktualizujeme, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)).
+Web zprovoznily [Ohlasy](https://ohlasy.info), neustále jej aktualizujeme, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)). Mít v regionu dobré noviny se vyplatí nejen při pandemii – [přispějte nám na provoz](https://www.darujme.cz/projekt/1202392).
