@@ -19,8 +19,8 @@ najdete [na samostatné stránce](restaurace.html).
 
 - [Centrální informační web Ministerstva zdravotnictví](https://koronavirus.mzcr.cz/)
 - [Aktuální statistiky nakažených v celé ČR](https://onemocneni-aktualne.mzcr.cz/covid-19)
-- [Informace Ministerstva vnitra](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx) (například cestování)
-- [Informace Ministerstva zahraničních věcí](https://www.mzv.cz/jnp/cz/cestujeme/aktualni_doporuceni_a_varovani/vyhlaseni_nouzoveho_stavu.html) (například cestování)
+- [Informace Ministerstva vnitra](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx) (například k cestování za státní hranice)
+- [Informace Ministerstva zahraničních věcí](https://www.mzv.cz/jnp/cz/cestujeme/aktualni_doporuceni_a_varovani/vyhlaseni_nouzoveho_stavu.html) (například k návratu ze zahraničí)
 - [Informace pro podnikatele](https://www.businessinfo.cz/clanky/odpovedi-na-nejcastejsi-dotazy-podnikatelu-ohledne-aktualnich-opatreni-proti-sireni-koronaviru/)
 - [Info Státního zdravotního ústavu](http://www.szu.cz/tema/prevence/rady-a-doporuceni-pro-domaci-karantenu) (například jak se chovat v domácí karanténě)
 
