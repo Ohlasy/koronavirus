@@ -7,9 +7,8 @@ layout: default
 ## Základní informace
 
 - Počty nakažených v regionu: 11 případů v JMK, 8 na Brněnsku, 3 na
-  Břeclavsku. Žena z Blanenska má na okrese jen trvalý pobyt, ale žije
-  právě na Brněnsku. Všechny případy mají určitou vazbu na zahraničí.
-  (Stav k 15. 3. 11.00.)
+  Břeclavsku. Žena z Blanenska, která je také jednouu z nakažených, má na okrese jen trvalý pobyt, ale žije
+  právě na Brněnsku. Všechny případy mají určitou vazbu na zahraničí. Všichni jsou v dobrém zdravotním stavu včetně čtyř osob hospitalizovaných ve Fakultní nemocnici Brno. (Stav k 15. 3. 11.00.)
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
 ## Restaurace
