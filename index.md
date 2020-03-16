@@ -43,7 +43,7 @@ nechoďte tam kvůli tomu, zbytečně byste komplikovali provoz nemocnice.**
 
 Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a domluvíme se tam.
 
-<form action="http://bit.ly/koronabce">
+<form action="https://bit.ly/koronabce">
     <input type="submit" value="Nabídnout pomoc" />
 </form>
 
