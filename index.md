@@ -41,7 +41,8 @@ ideálně v uvedeném pořadí:
    - ZP ŠKODA: 800 209 000
    - ZPMV: 844 211 211
    - RBP: 800 213 213
-6. V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212 (zatím ve zkušebním režimu - doplněno 15. 3. 22:17)
+
+V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212, zatím ve zkušebním režimu.
 
 ## Jak pomoci ostatním
 
