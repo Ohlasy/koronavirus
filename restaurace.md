@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Koronavir na Boskovicku: Restaurace"
+description: "Restaurace, kavárny a cukrárny, které nabízí výdej přes okénko nebo rozvoz."
 ---
 
 # [Koronavirus na Boskovicku](/) / Restaurace

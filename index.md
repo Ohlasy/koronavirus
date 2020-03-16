@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Aktuální informace o koronaviru na Boskovicku
+title: Koronavir na Boskovicku
+description: Aktuální informace o koronaviru na Boskovicku
 ---
 
 # Aktuální informace o koronaviru na Boskovicku

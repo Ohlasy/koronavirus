@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Koronavir na Boskovicku: Hledám pomoc"
+description: "Potřebujete pomoc s nákupem nebo hlídáním dětí?"
 ---
 
 # [Koronavirus na Boskovicku](/) / Hledám pomoc
