@@ -50,8 +50,3 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do [sdíleného chatu](
 Web zprovoznily [Ohlasy](https://ohlasy.info). Mít v regionu dobré noviny se vyplatí nejen při pandemii – [přispějte nám na provoz](https://www.darujme.cz/projekt/1202392).
 
 Aktualizujeme neustále, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)).
-
----
-
-<small>Tento web používá pro analýzu návštěvnosti cookies, jeho používáním s tím vyjadřujete souhlas.
-Pokud nevíte, co to znamená, nedělejte si s tím hlavu – o nic nejde, ale napsat to sem musíme.</small>
