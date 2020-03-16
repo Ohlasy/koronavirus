@@ -5,7 +5,7 @@ title: Aktuální informace o koronaviru na Boskovicku
 
 # Aktuální informace o koronaviru na Boskovicku
 
-- Počty nakažených v regionu: 21 případů v JMK. Z toho o 12 případech je známo, že nejsou na našem okrese, u dalších zatím nevíme. Většina případů je importovaných, přibývají potvrzené případy, které se nakazily v přímém kontaktu s potvrzeným onemocněním – především členové rodin a blízcí přátelé. (Stav k 16. 3. 10:30)
+- Počty nakažených v regionu: 21 případů v JMK, jeden z nich je z Blanenska. Většina případů je importovaných, přibývají však potvrzené případy, které se nakazily v přímém kontaktu s potvrzeným onemocněním – především členové rodin a blízcí přátelé. (Stav k 16. 3. 15:20)
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
 ## Potřebuji pomoc
