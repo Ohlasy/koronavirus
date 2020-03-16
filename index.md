@@ -36,6 +36,9 @@ Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti
 
 V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212, zatím ve zkušebním režimu.
 
+**Důležité: Nemocnice Boskovice neprovádí vyšetření na COVID–19 ani odběry pro tato vyšetření,
+nechoďte tam kvůli tomu, zbytečně byste komplikovali provoz nemocnice.**
+
 ## Nabízím pomoc
 
 Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a domluvíme se tam.
