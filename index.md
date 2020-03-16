@@ -7,24 +7,14 @@ layout: default
 - Počty nakažených v regionu: 21 případů v JMK. Z toho o 12 případech je známo, že nejsou na našem okrese, u dalších zatím nevíme. Většina případů je importovaných, přibývají potvrzené případy, které se nakazily v přímém kontaktu s potvrzeným onemocněním – především členové rodin a blízcí přátelé. (Stav k 16. 3. 10:30)
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
-## Restaurace
+## Potřebuji pomoc
 
-Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
-najdete [na samostatné stránce](restaurace.html).
+Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, vyplňte prosím [náš formulář](poptavka.html).
+Máme v chatu několik desítek dobrovolníků, někdo z nich se vám ozve.
 
-## Informační zdroje
+## Asi jsem nemocný, co mám dělat?
 
-- [Centrální informační web Ministerstva zdravotnictví](https://koronavirus.mzcr.cz/)
-- [Aktuální statistiky nakažených v celé ČR](https://onemocneni-aktualne.mzcr.cz/covid-19)
-- [Informace Ministerstva vnitra](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx) (například k cestování za státní hranice)
-- [Informace Ministerstva zahraničních věcí](https://www.mzv.cz/jnp/cz/cestujeme/aktualni_doporuceni_a_varovani/vyhlaseni_nouzoveho_stavu.html) (například k návratu ze zahraničí)
-- [Informace pro podnikatele](https://www.businessinfo.cz/clanky/odpovedi-na-nejcastejsi-dotazy-podnikatelu-ohledne-aktualnich-opatreni-proti-sireni-koronaviru/)
-- [Info Státního zdravotního ústavu](http://www.szu.cz/tema/prevence/rady-a-doporuceni-pro-domaci-karantenu) (například jak se chovat v domácí karanténě)
-
-## Telefonní linky
-
-Pokud máte symptomy (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla,
-ideálně v uvedeném pořadí:
+Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:
 
 1. Váš obvodní praktický lékař
 2. Krajská hygienická stanice JMK: 773 768 994. (Pracovní dny 8:00–17:00, mimo tuto dobu Státní zdravotní ústav)
@@ -41,9 +31,23 @@ ideálně v uvedeném pořadí:
 
 V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212, zatím ve zkušebním režimu.
 
-## Jak pomoci ostatním
+## Nabízím pomoc
 
 Pokud chcete nabídnout svou pomoc, přidejte se prosím do [sdíleného chatu](http://bit.ly/koronabce) a domluvíme se tam.
+
+## Restaurace
+
+Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
+najdete [na samostatné stránce](restaurace.html).
+
+## Informační zdroje
+
+- [Centrální informační web Ministerstva zdravotnictví](https://koronavirus.mzcr.cz/)
+- [Aktuální statistiky nakažených v celé ČR](https://onemocneni-aktualne.mzcr.cz/covid-19)
+- [Informace Ministerstva vnitra](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx) (například k cestování za státní hranice)
+- [Informace Ministerstva zahraničních věcí](https://www.mzv.cz/jnp/cz/cestujeme/aktualni_doporuceni_a_varovani/vyhlaseni_nouzoveho_stavu.html) (například k návratu ze zahraničí)
+- [Informace pro podnikatele](https://www.businessinfo.cz/clanky/odpovedi-na-nejcastejsi-dotazy-podnikatelu-ohledne-aktualnich-opatreni-proti-sireni-koronaviru/)
+- [Info Státního zdravotního ústavu](http://www.szu.cz/tema/prevence/rady-a-doporuceni-pro-domaci-karantenu) (například jak se chovat v domácí karanténě)
 
 ## O webu
 
