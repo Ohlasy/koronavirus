@@ -3,18 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>
-      {% if page.title %} Aktuální informace o koronaviru na Boskovicku: {{
-      page.title }} {% else %} Aktuální informace o koronaviru na Boskovicku {%
-      endif %}
-    </title>
+    <title>{{ page.title }}</title>
 
     <!-- Open Graph Metadata -->
     <meta property="og:title" content="Koronavir na Boskovicku" />
-    <meta
-      property="og:description"
-      content="Aktuální informace o koronaviru na Boskovicku"
-    />
+    <meta property="og:description" content="{{ page.title }}" />
     <meta property="og:url" content="https://korona.ohlasy.info" />
     <meta property="og:image" content="https://i.ohlasy.info/i/68d0b01d.png" />
 

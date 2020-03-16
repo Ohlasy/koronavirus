@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Restaurace
+title: "Koronavir na Boskovicku: Restaurace"
 ---
 
 # [Koronavirus na Boskovicku](/) / Restaurace
