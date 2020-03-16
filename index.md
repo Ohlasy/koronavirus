@@ -11,8 +11,11 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 ## Potřebuji pomoc
 
-Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, vyplňte prosím [náš formulář](poptavka.html).
-Máme v chatu několik desítek dobrovolníků, někdo z nich se vám ozve.
+Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme v chatu několik desítek dobrovolníků, někdo z nich se vám ozve a pomůže vám.
+
+<form action="poptavka.html">
+    <input type="submit" value="Požádat o pomoc" />
+</form>
 
 ## Asi jsem nemocný, co mám dělat?
 
