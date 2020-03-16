@@ -38,7 +38,11 @@ V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní i
 
 ## Nabízím pomoc
 
-Pokud chcete nabídnout svou pomoc, přidejte se prosím do [sdíleného chatu](http://bit.ly/koronabce) a domluvíme se tam.
+Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a domluvíme se tam.
+
+<form action="http://bit.ly/koronabce">
+    <input type="submit" value="Nabídnout pomoc" />
+</form>
 
 ## Restaurace
 
