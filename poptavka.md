@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Koronavir na Boskovicku: Poptávka pomoci"
+title: "Koronavir na Boskovicku: Hledám pomoc"
 ---
 
 # [Koronavirus na Boskovicku](/) / Hledám pomoc
