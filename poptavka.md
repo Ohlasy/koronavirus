@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Poptávka pomoci
 ---
 
 # [Koronavirus na Boskovicku](/) / Hledám pomoc

@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Aktuální informace o koronaviru na Boskovicku</title>
+    <title>
+      {% if page.title %} Aktuální informace o koronaviru na Boskovicku: {{
+      page.title }} {% else %} Aktuální informace o koronaviru na Boskovicku {%
+      endif %}
+    </title>
 
     <!-- Open Graph Metadata -->
     <meta property="og:title" content="Koronavir na Boskovicku" />
