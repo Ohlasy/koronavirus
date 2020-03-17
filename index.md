@@ -20,6 +20,13 @@ Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k
 Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale prosím pouze v případě, že se vám nedaří
 informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo by pomoc mohl potřebovat, ale na webu ji nenajde, číslo mu dejte.)
 
+## Jídlo a nákupy
+
+Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
+najdete [na samostatné stránce](restaurace.html).
+
+Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/groceries/cs-CZ), můžete snadno nakoupit a zaplatit i pro někoho jiného.
+
 ## Asi jsem nemocný, co mám dělat?
 
 Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:
@@ -49,11 +56,6 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a�
 <form action="https://bit.ly/koronabce">
     <input type="submit" value="Nabídnout pomoc" />
 </form>
-
-## Restaurace
-
-Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
-najdete [na samostatné stránce](restaurace.html).
 
 ## Informační zdroje
 
