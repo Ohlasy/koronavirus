@@ -1,4 +1,5 @@
 .jekyll-cache/
 _site/
 _data/restaurace.json
+_data/poptavky.json
 .DS_Store
