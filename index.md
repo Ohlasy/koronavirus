@@ -17,6 +17,9 @@ Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k
     <input type="submit" value="Požádat o pomoc" />
 </form>
 
+Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale prosím pouze v případě, že se vám nedaří
+informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo by pomoc mohl potřebovat, ale na webu ji nenajde, číslo mu dejte.)
+
 ## Asi jsem nemocný, co mám dělat?
 
 Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:
