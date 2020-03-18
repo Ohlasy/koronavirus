@@ -6,7 +6,9 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 # Aktuální informace o koronaviru na Boskovicku
 
-- Počty nakažených v regionu: 35 případů v JMK. Nákaza je rozmístěna po celém Jihomoravském kraji, včetně blanenského okresu. Konkrétní čísla se však na úrovni okresů nezveřejňují, na tak podrobné poskytování informací už nemají odborníci kapacitu. (Stav k 17. 3. 18:00)
+{% assign s = site.data.stats %}
+
+- Aktuální statistiky za celou ČR: Testovaných případů {{ s.totalTested }}, nakažených {{ s.infected }} (z toho JMK: {{ s.infectedByRegion | where: "region", "Jihomoravský kraj" | map: "value" }}), uzdravených {{ s.recovered }}. ([zdroj](https://apify.com/petrpatek/covid-cz))
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
 ## Potřebuji pomoc

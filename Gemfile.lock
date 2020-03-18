@@ -19,6 +19,8 @@ GEM
     eventmachine (1.2.7)
     ffi (1.12.2)
     forwardable-extended (2.6.0)
+    hash-joiner (0.0.7)
+      safe_yaml
     http_parser.rb (0.6.0)
     httparty (0.18.0)
       mime-types (~> 3.0)
@@ -81,6 +83,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport (~> 6.0)
   airtable (~> 0.0.9)
+  hash-joiner (~> 0.0.7)
   jekyll (~> 4.0)
 
 BUNDLED WITH
