@@ -29,6 +29,10 @@ najdete [na samostatné stránce](restaurace.html).
 
 Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/groceries/cs-CZ), můžete snadno nakoupit a zaplatit i pro někoho jiného.
 
+## Roušky
+
+Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Pro běžné obyvatele v dohledné době žádné nadbytečné roušky nebudou, takže pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
+
 ## Asi jsem nemocný, co mám dělat?
 
 Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:
