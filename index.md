@@ -8,7 +8,7 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 {% assign s = site.data.stats %}
 
-- Aktuální statistiky za celou ČR: Testovaných případů {{ s.totalTested }}, nakažených {{ s.infected }} (z toho JMK: {{ s.infectedByRegion | where: "region", "Jihomoravský kraj" | map: "value" }}), uzdravených {{ s.recovered }}. ([zdroj](https://apify.com/petrpatek/covid-cz))
+- Aktuální statistiky za celou ČR: Testovaných případů {{ s.totalTested }}, nakažených {{ s.infected }} (z toho JMK: {{ s.infectedByRegion | where: "name", "Jihomoravský kraj" | map: "value" }}), uzdravených {{ s.recovered }}. ([zdroj](https://apify.com/petrpatek/covid-cz))
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
 ## Potřebuji pomoc
