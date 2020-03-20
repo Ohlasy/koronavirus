@@ -4,12 +4,14 @@ title: Koronavir na Boskovicku
 description: Aktuální informace o koronaviru na Boskovicku
 ---
 
+<script src="stats.js"></script>
+
 # Aktuální informace o koronaviru na Boskovicku
 
-{% assign s = site.data.stats %}
-
-- Aktuální statistiky za celou ČR: Testovaných případů {{ s.totalTested }}, nakažených {{ s.infected }} (z toho JMK: {{ s.infectedByRegion | where: "name", "Jihomoravský kraj" | map: "value" }}), uzdravených {{ s.recovered }}. ([zdroj](https://apify.com/petrpatek/covid-cz))
-- Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
+<ul>
+    <li><span id="stats">Aktuální statistiky by se měly načíst za moment.</span></li>
+    <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html">pravidelně aktualizovaném textu Ohlasů</a>.</li>
+</ul>
 
 ## Potřebuji pomoc
 
