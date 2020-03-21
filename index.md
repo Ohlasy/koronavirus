@@ -40,6 +40,14 @@ a z nějakého důvodu si ji nemůžete opatřit sami, ozvěte se nám:
     <input type="submit" value="Potřebuji roušku" />
 </form>
 
+{% assign sum = 0 %}
+{% assign items = site.data.rousky | where: "stav", "Vyřízeno" | map: "poskytnutý_počet" %}
+{% for r in items %}
+{% assign sum = sum | plus: r %}
+{% endfor %}
+
+Celkem zatím předáno více než {{ sum }} roušek 🎉
+
 ## Asi jsem nemocný, co mám dělat?
 
 Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:

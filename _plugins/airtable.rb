@@ -19,3 +19,4 @@ api_key = ENV["AIRTABLE_API_KEY"]
 
 write_records("_data/restaurace.json", get_records(api_key, "appNCO9QEMVKRmd6d", "Restaurace"))
 write_records("_data/poptavky.json", get_records(api_key, "app3gRRZZhUJ6p0Mb", "Poptávky"))
+write_records("_data/rousky.json", get_records(api_key, "appFnGMZcxjkGmYO0", "Poptávky"))

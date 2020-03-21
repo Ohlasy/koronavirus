@@ -2,4 +2,5 @@
 _site/
 _data/restaurace.json
 _data/poptavky.json
+_data/rousky.json
 .DS_Store
