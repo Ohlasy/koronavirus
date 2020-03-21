@@ -52,7 +52,7 @@ Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti
    - ZPMV: 844 211 211
    - RBP: 800 213 213
 
-V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212, zatím ve zkušebním režimu.
+V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212.
 
 **Důležité: Nemocnice Boskovice neprovádí vyšetření na Covid 19 ani odběry pro tato vyšetření,
 nechoďte tam kvůli tomu, zbytečně byste komplikovali provoz nemocnice.**
