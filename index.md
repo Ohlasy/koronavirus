@@ -33,15 +33,17 @@ Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/g
 
 ## Roušky
 
-Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Pro běžné obyvatele v dohledné době žádné nadbytečné roušky nebudou, takže pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview). Pokud roušku nutně potřebujete
-a z nějakého důvodu si ji nemůžete opatřit sami, ozvěte se nám:
+- Pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview). Pro běžné obyvatele v dohledné době žádné
+  nadbytečné roušky nebudou.
+- Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama.
+- Pokud si roušku z nějakého důvodu nemůžete opatřit sami, ozvěte se nám:
 
 <form action="rousky.html">
     <input type="submit" value="Potřebuji roušku" />
 </form>
 
 {% assign sum = 0 %}
-{% assign items = site.data.rousky | where: "stav", "Vyřízeno" | map: "poskytnutý_počet" %}
+{% assign items = site.data.rousky | map: "poskytnutý_počet" %}
 {% for r in items %}
 {% assign sum = sum | plus: r %}
 {% endfor %}
