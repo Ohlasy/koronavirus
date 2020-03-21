@@ -33,7 +33,12 @@ Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/g
 
 ## Roušky
 
-Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Pro běžné obyvatele v dohledné době žádné nadbytečné roušky nebudou, takže pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
+Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Pro běžné obyvatele v dohledné době žádné nadbytečné roušky nebudou, takže pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview). Pokud roušku nutně potřebujete
+a z nějakého důvodu si ji nemůžete opatřit sami, ozvěte se nám:
+
+<form action="rousky.html">
+    <input type="submit" value="Potřebuji roušku" />
+</form>
 
 ## Asi jsem nemocný, co mám dělat?
 
