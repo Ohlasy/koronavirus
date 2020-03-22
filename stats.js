@@ -11,7 +11,7 @@ async function getStats() {
   try {
     const data = await getData();
     const tested = data.totalTested;
-    const infected = data.infected == 1 ? 1047 : data.infected;
+    const infected = data.infected;
     const cured = data.recovered;
     const jmk = data.infectedByRegion.find(e => e.name === "Jihomoravský kraj")
       .value;
