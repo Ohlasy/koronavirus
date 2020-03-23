@@ -9,7 +9,7 @@ description: Aktuální informace o koronaviru na Boskovicku
 # Aktuální informace o koronaviru na Boskovicku
 
 <ul>
-    <li><span id="stats">Aktuální statistiky by se měly načíst za moment.</span></li>
+    <li><span id="stats">Aktuální statistiky by se měly načíst za moment.</span></li> Konkrétně na Blanensku je pět nakažených.
     <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html">pravidelně aktualizovaném textu Ohlasů</a>.</li>
 </ul>
 
