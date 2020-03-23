@@ -33,10 +33,9 @@ Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/g
 
 ## Roušky
 
-- Pokud potřebujete roušku, [podle návodu si ji vyrobte](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview). Pro běžné obyvatele v dohledné době žádné
-  nadbytečné roušky nebudou.
-- Stále je nedostatek roušek i v důležitých profesích (lékaři, sociální služby, policie), takže pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama.
-- Pokud si roušku z nějakého důvodu nemůžete opatřit sami, ozvěte se nám:
+- Pokud potřebujete roušku, [můžete si ji podle návodu vyrobit](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
+- Pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Budou průběžně distribuovány dál podle potřeby.
+- Pokud máte nedostatek roušek, ozvěte se, doručíme:
 
 <form action="rousky.html">
     <input type="submit" value="Potřebuji roušku" />
