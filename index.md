@@ -26,8 +26,7 @@ informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo b
 
 ## Jídlo a nákupy
 
-Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
-najdete [na samostatné stránce](restaurace.html).
+Seznam {{ site.data.restaurace | where_exp: "item", "item.popis" | size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz, najdete [na samostatné stránce](restaurace.html).
 
 Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/groceries/cs-CZ), můžete snadno nakoupit a zaplatit i pro někoho jiného.
 
