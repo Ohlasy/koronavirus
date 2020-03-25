@@ -13,13 +13,14 @@ async function getStats() {
     const tested = data.totalTested;
     const infected = data.infected;
     const cured = data.recovered;
+    const deceased = data.deceased;
     const jmk = data.infectedByRegion.find(e => e.name === "Jihomoravský kraj")
       .value;
     const fmt = new Intl.NumberFormat("cs-CZ").format;
     container.innerHTML = `
         Aktuální statistiky za celou ČR: Testovaných případů ${fmt(tested)},
         nakažených ${fmt(infected)} (z toho JMK: ${jmk}), uzdravených
-        ${fmt(cured)}.
+        ${fmt(cured)}, mrtvých ${fmt(deceased)}.
 
     `;
   } catch (err) {
