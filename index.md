@@ -15,7 +15,7 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 ## Potřebuji pomoc
 
-Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k dispozici několik desítek dobrovolníků, někdo z nich se vám ozve a pomůže vám.
+Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k dispozici několik desítek dobrovolníků, někdo z nich se vám ozve a pomůže vám. (Počet doposud úspěšně vyřízených žádostí: {{ site.data.poptavky | where: "stav", "Úspěšně vyřízeno" | size }} 🎉)
 
 <form action="poptavka.html">
     <input type="submit" value="Požádat o pomoc" />
