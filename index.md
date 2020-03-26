@@ -80,13 +80,16 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a�
 
 ## Místní texty
 
-<ul>
+<div class="articles">
 {% for article in site.data.articles %}
 {% if article.tags contains "koronavirus" %}
-<li><a href="https://ohlasy.info{{ article.relativeURL }}">{{ article.title}}</a></li>
+<a href="https://ohlasy.info{{ article.relativeURL }}" class="article-preview">
+<img src="{{ article.cover-photo }}">
+<p>{{ article.title}}</p>
+</a>
 {% endif %}
 {% endfor %}
-</ul>
+</div>
 
 ## Celostátní informační zdroje
 
