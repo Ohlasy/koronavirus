@@ -78,7 +78,17 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a�
     <input type="submit" value="Nabídnout pomoc" />
 </form>
 
-## Informační zdroje
+## Místní texty
+
+<ul>
+{% for article in site.data.articles %}
+{% if article.tags contains "koronavirus" %}
+<li><a href="https://ohlasy.info{{ article.relativeURL }}">{{ article.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+## Celostátní informační zdroje
 
 - [Centrální informační web Ministerstva zdravotnictví](https://koronavirus.mzcr.cz/)
 - [Aktuální statistiky nakažených v celé ČR](https://onemocneni-aktualne.mzcr.cz/covid-19)

@@ -1,1 +1,4 @@
 timezone: Europe/Prague
+jekyll_get:
+  - data: articles
+    json: "https://ohlasy.info/api/articles.js"
