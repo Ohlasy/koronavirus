@@ -15,14 +15,13 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 ## Potřebuji pomoc
 
-Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k dispozici několik desítek dobrovolníků, někdo z nich se vám ozve a pomůže vám. (Počet doposud úspěšně vyřízených žádostí: {{ site.data.poptavky | where: "stav", "Úspěšně vyřízeno" | size }} 🎉)
+Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k dispozici několik desítek dobrovolníků, někdo z nich se vám ozve a pomůže vám. (Celkem zatím úspěšně vyřízeno {{ site.data.poptavky | where: "stav", "Úspěšně vyřízeno" | size }} poptávek 🎉)
 
 <form action="poptavka.html">
     <input type="submit" value="Požádat o pomoc" />
 </form>
 
-Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale prosím pouze v případě, že se vám nedaří
-informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo by pomoc mohl potřebovat, ale na webu ji nenajde, číslo mu dejte.)
+Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale prosím pouze v případě, že se vám nedaří informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo by pomoc mohl potřebovat, ale na webu ji nenajde, číslo mu dejte.)
 
 ## Jídlo a nákupy
 
