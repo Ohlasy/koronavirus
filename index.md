@@ -102,4 +102,5 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do sdíleného chatu a�
 
 Web zprovoznily [Ohlasy](https://ohlasy.info). Mít v regionu dobré noviny se vyplatí nejen při pandemii – [přispějte nám na provoz](https://www.darujme.cz/projekt/1202392).
 
-Aktualizujeme neustále, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)).
+Aktualizujeme neustále, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)),
+technické nebo obsahové připomínky k webu můžete poslat [mailem](mailto:tomas.znamenacek@ohlasy.info).
