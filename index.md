@@ -27,8 +27,6 @@ Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale 
 
 Seznam {{ site.data.restaurace | where_exp: "item", "item.popis" | size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz, najdete [na samostatné stránce](restaurace.html).
 
-Online nákup s dovážkou až k domu [nabízí Tesco](https://nakup.itesco.cz/groceries/cs-CZ), můžete snadno nakoupit a zaplatit i pro někoho jiného.
-
 ## Roušky
 
 - Pokud potřebujete roušku, [můžete si ji podle návodu vyrobit](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
