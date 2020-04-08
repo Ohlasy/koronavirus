@@ -10,7 +10,7 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 <ul>
     <li><span id="stats">Aktuální statistiky by se měly načíst za moment.</span></li>
-    <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html">pravidelně aktualizovaném textu Ohlasů</a>.</li>
+    <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/04/koronavirus-opatreni.html">textu Ohlasů</a>.</li>
 </ul>
 
 ## Potřebuji pomoc
