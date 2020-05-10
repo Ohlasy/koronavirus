@@ -27,24 +27,6 @@ Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale 
 
 Seznam {{ site.data.restaurace | where_exp: "item", "item.popis" | size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz, najdete [na samostatné stránce](restaurace.html).
 
-## Roušky
-
-- Pokud potřebujete roušku, [můžete si ji podle návodu vyrobit](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
-- Pokud máte kapacitu, vyrobte prosím roušky navíc a dopravte je v čase 12.00–16.00 na sběrné místo v kině Panorama. Budou průběžně distribuovány dál podle potřeby.
-- Pokud máte nedostatek roušek, ozvěte se, doručíme:
-
-<form action="rousky.html">
-    <input type="submit" value="Potřebuji roušku" />
-</form>
-
-{% assign sum = 0 %}
-{% assign items = site.data.rousky | map: "poskytnutý_počet" %}
-{% for r in items %}
-{% assign sum = sum | plus: r %}
-{% endfor %}
-
-Celkem zatím předáno více než {{ sum }} roušek 🎉
-
 ## Asi jsem nemocný, co mám dělat?
 
 Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla, ideálně v uvedeném pořadí:
