@@ -10,7 +10,7 @@ description: Aktuální informace o koronaviru na Boskovicku
 
 <ul>
     <li><span id="stats">Aktuální statistiky by se měly načíst za moment.</span></li>
-    <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/04/koronavirus-opatreni.html">textu Ohlasů</a>.</li>
+    <li>Podrobný popis regionálních opatření najdete v <a href="https://ohlasy.info/clanky/2020/05/opatreni-koronavirus.html">textu Ohlasů</a>.</li>
 </ul>
 
 ## Potřebuji pomoc
@@ -22,10 +22,6 @@ Pokud potřebujete pomoc například s nákupem nebo hlídáním dětí, máme k
 </form>
 
 Můžete také využít boskovickou non-stop infolinku 725 112 573. Volejte ale prosím pouze v případě, že se vám nedaří informace nebo pomoc sehnat online. (Pokud ve svém okolí víte o někom, kdo by pomoc mohl potřebovat, ale na webu ji nenajde, číslo mu dejte.)
-
-## Jídlo a nákupy
-
-Seznam {{ site.data.restaurace | where_exp: "item", "item.popis" | size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz, najdete [na samostatné stránce](restaurace.html).
 
 ## Asi jsem nemocný, co mám dělat?
 
@@ -45,9 +41,6 @@ Pokud máte symptomy onemocnění (zvýšenou teplotu, dušnost, kašel, bolesti
    - RBP: 800 213 213
 
 V souvislosti s koronavirem byla zřízena také nová bezplatná celostátní informační linka 1212.
-
-**Důležité: Nemocnice Boskovice neprovádí vyšetření na Covid 19 ani odběry pro tato vyšetření,
-nechoďte tam kvůli tomu, zbytečně byste komplikovali provoz nemocnice.**
 
 ## Nabízím pomoc
 
